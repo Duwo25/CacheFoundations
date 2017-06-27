@@ -1,2 +1,2 @@
 # CacheFoundations
-CachÃ© Foundations 2016.2
+Caché Foundations 2016.2
